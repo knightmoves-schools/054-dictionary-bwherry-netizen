@@ -3,7 +3,7 @@
 public class Classroom{
 
     public Dictionary<int, string> CreateTeam(string first, string second, string third){
-        Dictionary<int, string> team = new Team Dictionary<int, string>();
+        Dictionary<int, string> team = new Dictionary<int, string>();
             team.Add(1, first);
             team.Add(2, second);
             team.Add(3, third);
