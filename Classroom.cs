@@ -7,6 +7,6 @@ public class Classroom{
             team.Add(1, first);
             team.Add(2, second);
             team.Add(3, third);
-        return Team;
+        return team;
     }
 }
